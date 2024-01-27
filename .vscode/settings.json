@@ -1,4 +1,5 @@
 {
+    "workbench.startupEditor": "readme",
     "files.exclude": {
         ".vscode/": true,
         "**/bin/": true,
