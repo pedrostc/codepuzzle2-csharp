@@ -1,0 +1,30 @@
+{
+    "files.exclude": {
+        ".vscode/": true,
+        "**/bin/": true,
+        "**/obj/": true,
+        "**/*.csproj": true,
+        "LICENSE": true,
+        ".gitignore": true,
+        "runsettings.xml": true,
+        ".gitpod.yml": true,
+        ".gitpod.Dockerfile": true,
+        "StringCalculatorTests/**": true,
+        "**/*.sln": true,
+        "**/*.user": true,
+    },
+    "search.exclude": {
+        ".vscode/": true,
+        "**/bin/": true,
+        "**/obj/": true,
+        "**/*.csproj": true,
+        "LICENSE": true,
+        ".gitignore": true,
+        "runsettings.xml": true,
+        ".gitpod.yml": true,
+        ".gitpod.Dockerfile": true,
+        "StringCalculatorTests/**": true,
+        "**/*.sln": true,
+        "**/*.user": true,
+    }
+}
