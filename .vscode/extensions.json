@@ -2,7 +2,7 @@
     "recommendations": [
 		"ms-vsliveshare.vsliveshare-pack",
         "ms-dotnettools.csharp",
-        "ms-dotnettools.csdevkit",
-        "ms-dotnettools.vscodeintellicode-csharp"
+        "ms-dotnettools.vscodeintellicode-csharp",
+        "ms-dotnettools.vscode-dotnet-runtime"
     ]
 }

@@ -27,5 +27,8 @@
         "StringCalculatorTests/**": true,
         "**/*.sln": true,
         "**/*.user": true,
-    }
+    },
+    "nunitTestRunner.projectsPatterns": [
+        "**/bin/Debug/net8.0/StringCalculatorTests.dll"
+    ]
 }
